@@ -1,0 +1,21 @@
+meta:
+  #abc:        项目目录
+  #  - test1   验证文件
+  #  - ~test2  忽略
+  #dd/ee:      检查目录下所有文件
+  #aa/bb:      除忽略文件外, 检查目录下其他文件
+  #  - ~t1     忽略
+  #  - ~t2     忽略
+  abc:
+    - a1
+    - a2
+    - bb3
+  host:
+    #- e
+    - ~ere1
+    - ere2
+  kekek:
+  amemr/ereer/er234:
+  ios/tqes/assert:
+    - abc
+  abc1:
